@@ -1,0 +1,8 @@
+Facture pour reservation 4
+Client : remadi meriam
+Salle : Salle A
+Date : 2025-12-14
+Horaire : 08:30 - 10:30
+Duree (heures) : 2.00
+Tarif horaire : 20.00 EUR
+Montant total : 40.00 EUR
